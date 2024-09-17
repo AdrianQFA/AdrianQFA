@@ -9,8 +9,8 @@ I'm a <i>PhD student in the University of Granada</i> passionate about <span sty
 
 ### Languages
 - **Fortran90**:
-  <div style="background-color: #ddd; width: 100%; height: 25px; border: 1px solid #ccc;">
-    <div style="width: 80%; background-color: #ff5733; height: 100%; text-align: right; padding-right: 10px; color: white;">
+  <div style="background-color:#f39c12;; width: 100%; height: 25px; border: 1px solid #ccc;">
+    <div style="width: 80%; background-color:#f39c12;; height: 100%; text-align: right; padding-right: 10px; color: white;">
       80%
     </div>
   </div>
