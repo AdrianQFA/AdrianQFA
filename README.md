@@ -8,13 +8,8 @@ I'm a <i>PhD student in the University of Granada</i> passionate about <span sty
 ## 🔧 Skills
 
 ### Languages
-- **Fortran90**:
-  <div style="background-color: #ddd; width: 100%; height: 25px; border: 1px solid #ccc;">
-    <div style="width: 80%; background-color: #28a745; height: 100%; text-align: right; padding-right: 10px; color: white;">
-      80%
-    </div>
-  </div>
-  
+- **Fortran90**: ![Fortran90](https://img.shields.io/badge/Fortran90-80%25-brightgreen)
+
 - **Fortran90**: ![Fortran90](https://img.shields.io/badge/Fortran90-80%25-blue)
 - **SH**: ![60%](https://progress-bar.dev/60)
 - **Python**: ![35%](https://progress-bar.dev/35)
