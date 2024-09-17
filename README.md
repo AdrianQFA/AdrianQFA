@@ -1,13 +1,14 @@
-# <span style="color:#1abc9c;">👋 Hello! I'm <i>[Adrián]</i></span>
+# <span style="color:#1abc9c;">👋 Hello! I'm <i>Adrián</i></span>
 
 ## <span style="color:#e74c3c;">About Me</span>
 <p align="justify">
-I'm a <i>[PhD student in the University of Granada]</i> passionate about <span style="background-color:#f39c12; color:#fff;">[Science, programming, physics and chemistry]</span>. I have experience in <b>[Chemical laboratories, Molecular Dynamics Simulation]</b>, and I enjoy working on <span style="color:#2980b9;">[specific technologies or projects]</span>.
+I'm a <i>PhD student in the University of Granada</i> passionate about <span style="background-color:#f39c12; color:#fff;">Science, programming, physics and chemistry</span>. I have experience in <b>Chemical laboratories, Molecular Dynamics Simulation</b>, and I enjoy working on <span style="color:#2980b9;">specific technologies or projects</span>.
 </p>
 
 ## 🔧 Skills
 
 ### Languages
+- **Fortran90**:██████████ 90%
 - **Fortran90**: ![80%](https://progress-bar.dev/80)
 - **SH**: ![60%](https://progress-bar.dev/60)
 - **Python**: ![35%](https://progress-bar.dev/35)
