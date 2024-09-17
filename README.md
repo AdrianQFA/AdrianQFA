@@ -8,8 +8,7 @@ I'm a <i>PhD student in the University of Granada</i> passionate about <span sty
 ## 🔧 Skills
 
 ### Languages
-- **Fortran90**:██████████ 90%
-- **Fortran90**: ![80%](https://progress-bar.dev/80)
+- **Fortran90**: ![Fortran90](https://img.shields.io/badge/Fortran90-80%25-blue)
 - **SH**: ![60%](https://progress-bar.dev/60)
 - **Python**: ![35%](https://progress-bar.dev/35)
 - **HTML**: ![10%](https://progress-bar.dev/10)
