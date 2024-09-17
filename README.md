@@ -1,17 +1,28 @@
-# <span style="color:#1abc9c;">👋 Hello! I'm <i>[Your Name]</i></span>
+# <span style="color:#1abc9c;">👋 Hello! I'm <i>[Adrián]</i></span>
 
 ## <span style="color:#e74c3c;">About Me</span>
 <p align="justify">
-I'm a <i>[Your Role]</i> passionate about <span style="background-color:#f39c12; color:#fff;">[your passions or industries you're interested in]</span>. I have experience in <b>[briefly mention your field of expertise]</b>, and I enjoy working on <span style="color:#2980b9;">[specific technologies or projects]</span>.
+I'm a <i>[PhD student in the University of Granada]</i> passionate about <span style="background-color:#f39c12; color:#fff;">[Science, programming, physics and chemistry]</span>. I have experience in <b>[Chemical laboratories, Molecular Dynamics Simulation]</b>, and I enjoy working on <span style="color:#2980b9;">[specific technologies or projects]</span>.
 </p>
 
-## <span style="color:#9b59b6;">🔧 Skills</span>
-<ul>
-  <li><b>Languages:</b> <span style="color:#3498db;">[e.g., Python, Java, C++]</span></li>
-  <li><b>Frameworks/Technologies:</b> <span style="color:#2ecc71;">[e.g., Django, React, Docker]</span></li>
-  <li><b>Tools:</b> <span style="color:#e67e22;">[e.g., Git, VS Code, Bash]</span></li>
-  <li><b>Platforms:</b> <span style="color:#9b59b6;">[e.g., AWS, GCP, Linux]</span></li>
-</ul>
+## 🔧 Skills
+
+### Languages
+- **Fortran90**: ![80%](https://progress-bar.dev/80)
+- **SH**: ![60%](https://progress-bar.dev/60)
+- **Python**: ![35%](https://progress-bar.dev/35)
+- **HTML**: ![10%](https://progress-bar.dev/10)
+- **css**: ![10%](https://progress-bar.dev/10)
+
+### Tools
+- **VS Code**: ![95%](https://progress-bar.dev/95)
+- **Git**: ![70%](https://progress-bar.dev/70)
+- **Bash**: ![60%](https://progress-bar.dev/60)
+
+### Platforms
+- **Windows**: ![90%](https://progress-bar.dev/90)
+- **Linux**: ![70%](https://progress-bar.dev/70)
+
 
 ## <span style="color:#e67e22;">🌟 Featured Projects</span>
 1. **<span style="color:#16a085;">[Project Name]</span>**: 
